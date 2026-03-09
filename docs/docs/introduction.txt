@@ -1,0 +1,3 @@
+Introduction section of the OquPlan diploma project.
+The project is aimed at organizing and planning educational tasks in a digital environment.
+The documentation includes the purpose of the system, relevance of the topic, and general project overview.
