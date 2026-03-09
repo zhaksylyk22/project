@@ -1,0 +1,3 @@
+OquPlan system architecture includes user interface components, task planning logic, and data management modules.
+The functional modules cover task creation, schedule organization, deadline tracking, and progress monitoring.
+This structure ensures convenient interaction between the user and the system.
