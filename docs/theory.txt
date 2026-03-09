@@ -1,0 +1,3 @@
+The theoretical chapter describes the main concepts related to educational planning systems.
+It includes key terminology, principles of information systems, task management logic, and digital planning tools.
+The chapter forms the conceptual basis for the OquPlan project.
